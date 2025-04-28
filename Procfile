@@ -1,1 +1,1 @@
-Glad: python -m hackingaibot
+Glad: python3 -m hackingaibot
